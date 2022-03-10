@@ -1,0 +1,3 @@
+[submodule "Example/Buzzer"]
+	path = Example/Buzzer
+	url = https://github.com/evandro-teixeira/Buzzer
